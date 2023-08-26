@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there!+I`m+Yevhen+Chornenko+a)](https://github.com/YevhenChornenko)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%DABE1&lines=Front-end+developer)](https://github.com/YevhenChornenko)
-fix:ss
 
 [<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://github.com/YevhenChornenko)
 ### Languages and Tools:
