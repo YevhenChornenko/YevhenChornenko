@@ -12,11 +12,9 @@
 ![SASS](https://img.shields.io/badge/-SASS-333?style=for-the-badge&logo=SASS)
 ![StyledComponents](https://img.shields.io/badge/-StyledComponents-333?style=for-the-badge&logo=StyledComponents)
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
+![GitHub
+](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 ![Figma](https://img.shields.io/badge/-Figma-333?style=for-the-badge&logo=Figma)
-
-
-
 
 
 
