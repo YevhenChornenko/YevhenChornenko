@@ -9,6 +9,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux&logoColor=blue)
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue)
+
 ![SASS](https://img.shields.io/badge/-SASS-333?style=for-the-badge&logo=SASS)
 ![StyledComponents](https://img.shields.io/badge/-StyledComponents-333?style=for-the-badge&logo=StyledComponents)
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
