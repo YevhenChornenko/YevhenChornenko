@@ -4,7 +4,8 @@
 [<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://github.com/YevhenChornenko)
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=blue)
+![TypeScript
+](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=blue)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=blue)
 ![Redux
 ](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux&logoColor=blue)
@@ -17,5 +18,6 @@
 ![GitHub
 ](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 ![Figma](https://img.shields.io/badge/-Figma-333?style=for-the-badge&logo=Figma)
+
 
 
